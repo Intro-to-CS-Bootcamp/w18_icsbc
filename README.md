@@ -1,8 +1,8 @@
 # Intro to CS Bootcamp, Winter 2018
 
-Before anything else, please take a look at our <a href="https://github.com/Intro-to-CS-Bootcamp/ics_bc_s18/blob/master/helper_docs/videos.md">video guide</a> for how to install git, set up your laptop for the bootcamp, and an overview of the course so you can get started.
+Before anything else, please take a look at our <a href="https://github.com/Intro-to-CS-Bootcamp/ics_bc_s18/blob/master/helper_docs/videos.md">video guide</a> for how to install git (<a href="https://youtu.be/bvRPC-QpLnA">Mac</a>, <a href="https://www.youtube.com/watch?v=jQLhLG_rJcs">PC</a>), <a href="https://youtu.be/343TgCRIxbQ">set up your laptop</a> for the bootcamp, and an <a href="https://youtu.be/t3LI7S8nDZQ">overview of the course</a> so you can get started. There's more there that you should definitely check out, but those are the key ones.
 
-You can find the course book at the following link: <a href="https://drive.google.com/open?id=0B77gmrnIsd4HZGpTaE1KanVDRW8">Learn to Program</a>, by Chris Pine.
+One very important note is that those videos were recorded this last summer, so there's some differences in the material and URLs (course repo for this winter is https://github.com/Intro-to-CS-Bootcamp/w18_icsbc).
 
 You may also find useful our <a href="https://github.com/Intro-to-CS-Bootcamp/ics_bc_s18/blob/master/helper_docs/git_overview.md"> overview of Git</a> helper doc, which also contains useful links if you want to learn git in full.
 
@@ -10,7 +10,7 @@ You may also find useful our <a href="https://github.com/Intro-to-CS-Bootcamp/ic
 
 - **Week 0:** 12/17 - 12/21
   - Learn Git
-  - Chapters 1-5
+  - Course set up
 - **Week 1:** 12/24 - 12/28
   - Chapters 1-5
 - **Week 2:** 12/31 - 1/4
