@@ -1,6 +1,6 @@
 # Intro to CS Bootcamp, Winter 2018
 
-Before anything else, please take a look at our <a href="https://github.com/Intro-to-CS-Bootcamp/ics_bc_s18/blob/master/helper_docs/videos.md">video guide</a> for how to install git (<a href="https://youtu.be/bvRPC-QpLnA">Mac</a>, <a href="https://www.youtube.com/watch?v=jQLhLG_rJcs">PC</a>), <a href="https://youtu.be/343TgCRIxbQ">set up your laptop</a> for the bootcamp, and an <a href="https://youtu.be/t3LI7S8nDZQ">overview of the course</a> so you can get started. There's more there that you should definitely check out, but those are the key ones.
+Before anything else, please take a look at our <a href="https://github.com/Intro-to-CS-Bootcamp/w18_icsbc/blob/master/helper_docs/videos.md">video guide</a> for how to install git (<a href="https://youtu.be/bvRPC-QpLnA">Mac</a>, <a href="https://www.youtube.com/watch?v=jQLhLG_rJcs">PC</a>), <a href="https://youtu.be/343TgCRIxbQ">set up your laptop</a> for the bootcamp, and an <a href="https://youtu.be/t3LI7S8nDZQ">overview of the course</a> so you can get started. There's more there that you should definitely check out, but those are the key ones.
 
 One very important note is that those videos were recorded this last summer, so there's some differences in the material and URLs (course repo for this winter is https://github.com/Intro-to-CS-Bootcamp/w18_icsbc).
 
