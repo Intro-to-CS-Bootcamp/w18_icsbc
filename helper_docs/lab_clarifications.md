@@ -41,7 +41,8 @@ Hi; nil
 3; false; nil
 ```
 
-### Tips for getting unstuck
+### Quick tips for getting unstuck
+
 1. Check for double quotes and nil
 2. Run the code in irb
 3. Contact a TA
