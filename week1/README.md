@@ -34,6 +34,7 @@ Download Ruby and a text editor such as <a href="https://atom.io/">Atom</a> or <
 Complete Lab 1
 
 - In the top folder, run `ruby lab_runner.rb 1`
+- Highly recommend checking out the video on <a href="https://youtu.be/WDOmF474YVE">running the labs</a> if you haven't seen it already, and reading the <a href="https://github.com/Intro-to-CS-Bootcamp/w18_icsbc/blob/master/helper_docs/wwrd_clarification.md">lab clarification<a> helper doc.
 
 ## Programming Assignment
 
