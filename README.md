@@ -12,11 +12,11 @@ You may also find useful our <a href="https://github.com/Intro-to-CS-Bootcamp/ic
   - Learn Git
   - Course set up
 - **Week 1:** 12/24 - 12/28
-  - Chapters 1-7
+  - Chapters 1-6
 - **Week 2:** 12/31 - 1/4
-  - Chapters 8-9
+  - Chapters 7-8
 - **Week 3:** 1/7 - 1/11
-  - Chapter 10
+  - Chapter 9
 - **Week 4:** 1/14 - 1/18
   - Recursion
 
