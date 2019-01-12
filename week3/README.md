@@ -49,7 +49,7 @@ C = 100 D = 500 M = 1000
 
 - Clarifications/Advice
   - This one is tricky, both roman ones are really. Things to keep in mind are to make sure you’re printing the largest numerals first, and to not overcount. That is, entering ‘5’ should return ‘V’, not ‘VIIIII’.
-  - Please name your method `romanize` so the autograder can run on it.
+  - Please name your method `romanize_old` so the autograder can run on it.
 
 #### new\_roman\_numerals.rb
 
@@ -57,4 +57,4 @@ C = 100 D = 500 M = 1000
   - Eventually, someone thought it would be terribly clever if putting a smaller number before a larger one meant you had to subtract the smaller one. As a result of this development, you must now suffer. Rewrite your previous method to return the new-style Roman numerals so when someone calls `roman_numeral 4`, it should return 'IV'.
 - Clarifications/Advice
   - This one is really just a harder version of the previous one with more symbols to account for, ‘IV’ for 4, ‘IX’ for 9, and so on for 40 and 90, and 400 and 900.
-  - Please name your method `romanize` so the autograder can run on it.
+  - Please name your method `romanize_new` so the autograder can run on it.
