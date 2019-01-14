@@ -1,6 +1,6 @@
 # Week 3 Instructions
 
-June 25 - June 29
+January 7 - 11
 
 ## Submission Link
 
