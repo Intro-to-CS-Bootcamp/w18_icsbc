@@ -1,4 +1,9 @@
 # Introduction to Computer Science Bootcamp: Ruby Style Guide
+
+_A developer who doesn't care about style is like an artist, a painter, who doesn't care about color._ -- from [this Stackoverflow post](https://stackoverflow.com/questions/127916/is-programming-style-important-how-important).
+
+_Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live._ -- Martin Golding
+
 When you first start coding, you might wonder why code composition is important. After all, your code is meant to run on computers.
 
 However, when you need help or work in a software company, others will inevitably read the code that you have written. For this reason, it is important to follow certain established guidelines to ensure that others can easily understand your code, and vice versa.
@@ -11,7 +16,7 @@ Limit lines to 80 characters. Generally, each line of code has a singular purpos
 
 [CS61B](https://sp18.datastructur.es/materials/guides/style-guide.html), which uses Java, strictly enforces a 100-character limit. However, Ruby code is much more compact than Java code.
 
-Don't add trailing whitespaces to the end of the file.
+Don't add trailing whitespaces (spaces, tabs) to the end of a line.
 
 ## Naming
 
@@ -65,16 +70,16 @@ Use two spaces for indentation. For other languages such as Python, using four s
 ```ruby
 # Bad Style
 def method
-   body
+    body
 end
 
 # Good Style
 def method
- body
+  body
 end
 ```
 
-Add spaces between operators, such as + and – . You can decide if you want to add spaces around * or / , but be consistent.
+Add spaces between operators, such as `+` and `–` . You can decide if you want to add spaces around `*` or `/` , but be consistent.
 
 ```ruby
 # Bad
@@ -120,45 +125,45 @@ Don't add space after `!`
 !true
 ```
 
-Add spaces between methods.
+Add newlines between methods.
 
 ```ruby
 # Good
 
-def plusone(x)
-  return x+1
+def plus_one(x)
+  return x + 1
 end
 
-def plustwo(x)
-  return x+2
+def plus_two(x)
+  return x + 2
 end
 ```
 
-Don't use multiple lines of spaces.
+Don't use multiple newlines.
 
 ```ruby
 # Bad
 
-def plusone(x)
-  return x+1
+def plus_one(x)
+  return x + 1
 end
 
 
 
-def plustwo(x)
-  return x+2
+def plus_two(x)
+  return x + 2
 end
 ```
 
-Don't use empty lines around method or class bodies.
+Don't use newlines around method or class bodies.
 
 ```ruby
 # Bad
 class SampleClass
 
-  def plusone(x)
+  def plus_one(x)
 
-    return x+1
+    return x + 1
 
   end
 
@@ -166,8 +171,8 @@ end
 
 # Good
 class SampleClass
-  def plusone(x)
-    return x+1
+  def plus_one(x)
+    return x + 1
   end
 end
 ```
@@ -197,7 +202,7 @@ a || b
 ```
 
 ## Control Structures
-Don't compare a boolean variable to True or False. The `!` operator flips the boolean value.
+Don't compare a boolean variable to `true` or `false`. The `!` operator flips the boolean value.
 
 ```ruby
 # Bad
